@@ -105,15 +105,15 @@ There were **37 missing values in the Review Rating column**, which were handled
 <img width="4872" height="2656" alt="500731798-8bbd5dc9-eb6c-40c1-8f19-c08b4107f654" src="https://github.com/user-attachments/assets/91df5944-2ab2-4805-b186-2b08ab6fcd21" />
 
 🔍 Key Insights
-💰 Customer Spending
+-💰 Customer Spending
 The analysis compares spending patterns across customer demographics, shipping preferences and subscription status.
-🎯 Discount Behavior
+-🎯 Discount Behavior
 A group of customers uses discounts while still making above-average purchases, indicating an opportunity to understand and target high-value discount users.
-⭐ Product Ratings
+-⭐ Product Ratings
 Product-level review ratings were analyzed to identify products receiving stronger customer ratings.
-🚚 Shipping Preferences
+-🚚 Shipping Preferences
 Express shipping customers had a higher average purchase amount than standard shipping customers in the analyzed dataset.
-👥 Customer Loyalty
+-👥 Customer Loyalty
 The customer segmentation analysis classified customers into New, Returning and Loyal groups, with the largest group being classified as Loyal.
 
 💡 Business Recommendations
